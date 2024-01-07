@@ -1,0 +1,12 @@
+name: CTRAnalysisApp
+title: CTRAnalysisApp
+username: dindaardhia
+account: dindaardhia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10879022
+bundleId: 8117397
+url: https://dindaardhia.shinyapps.io/CTRAnalysisApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
